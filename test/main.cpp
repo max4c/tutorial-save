@@ -13,5 +13,6 @@ int main(int argc, char* argv[])
     {
         cout << "Argument #" << i << ": " << argv[i] << endl;
     }
+    cout << "Another part of the test."
     return 0;
 }
